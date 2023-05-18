@@ -1,3 +1,4 @@
+// FIX1: The import statement for Component class should be written like this
 import {Component} from 'react'
 
 import './index.css'
